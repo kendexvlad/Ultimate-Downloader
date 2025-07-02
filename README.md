@@ -1,56 +1,54 @@
-🎵 Music/Video Downloader
-A modern, fast, and user-friendly downloader for Windows — built for downloading music and videos from YouTube, Instagram, and more.
+🎵 Music/Video Downloader – Fast, Clean & Powerful
+A modern, user-friendly Windows app for downloading audio and video from YouTube, Instagram, and more — built for speed, simplicity, and bulk efficiency.
 
-📥 Save your favorite videos, extract high-quality MP3s, or download full playlists — all with a clean interface and powerful features.
+🎧 Grab songs, 📹 save videos, 📥 download entire playlists — all in just a few clicks.
 
-🚀 Features
+⚡ Key Features
 🔗 Multi-URL Batch Download
-Paste one or more links (one per line) to queue and download multiple files at once.
+Paste multiple links (one per line) to queue and download everything at once — no limits.
 
-📽️ High-Quality Video & Audio
-Downloads videos in the best available resolution
+📽️ Best Quality Audio & Video
+Downloads the highest available video resolution
+MP3 extraction with clean audio quality for music or podcasts
 
-Extracts audio directly in clean MP3 format
+🌀 Randomized File Names
+Files are saved with a unique 4-character name to prevent overwriting and keep your folders tidy
 
-🌀 Unique File Names
-Each downloaded file is saved with a random 4-character name to avoid overwriting and ensure uniqueness.
+📊 Real-Time Progress
+Track each file's download status with live progress updates in the log
 
-📊 Real-Time Progress Display
-See live download percentages for each file in the status log.
-
-📁 Download Path Shown
-The full path to each saved file is displayed after download for easy access.
+📁 Download Path Display
+Each finished file shows its full save location for instant access
 
 📌 Persistent Download Folder
-Your selected folder is remembered across sessions — no need to set it every time.
+Your chosen folder is saved between sessions — set it once and forget it
 
-🌐 Proxy Support
-Use a proxy (with optional authentication) for downloads — useful in restricted networks.
+🌐 Proxy Support (Optional)
+Full proxy support with authentication — useful for region-locked or limited-speed networks
 
 🧩 Playlist Support
-Paste a playlist link and the app will automatically expand and queue all items.
+Paste a playlist URL — it automatically expands and downloads all items inside
 
-❌ Smart Error Handling
-Invalid or unsupported URLs are detected and logged
+❌ Error Detection
+Invalid or broken URLs? The app flags them instantly with clear log messages
 
-Download errors are clearly shown in the log
+🌓 Modern Resizable UI
+Dark-themed, minimalist interface with resizable fields and responsive layout
 
-🌓 Clean & Resizable Interface
-Modern, dark-themed UI with resizable input areas and clear status messages.
+🖱️ Drag-and-Drop Ready (Optional)
+Drop URLs straight into the app window for even faster workflow
 
-🖱️ Drag-and-Drop Support (Optional)
-If enabled, drag video or audio URLs into the app window to instantly queue them.
+🔐 No Duplicate Overwrites
+Each download is safe from accidental replacement thanks to unique naming
 
 🛠️ How to Use
-Paste one or more URLs into the input field (one per line)
+Paste one or more video/audio URLs into the input box (one per line)
 
-Select Audio (MP3) or Video (Best Quality)
+Choose Audio (MP3) or Video (Best Quality)
 
-(Optional) Set a proxy or choose a custom download folder
+(Optional) Set a proxy or change your download folder
 
-Click Download — watch progress and access paths in the log panel
+Hit Download and track progress in the built-in log panel
 
-📌 Requirements
-🪟 Windows 10/11 (x64)
-
-⚙️ .NET 8.0 Runtime (if using the lightweight build)
+🚀 Why Use This App?
+Whether you’re archiving playlists, saving videos for offline viewing, or extracting audio for your own use — Music/Video Downloader gives you a clean, fast, and reliable experience.
