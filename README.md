@@ -1,6 +1,6 @@
-🎵 Music/Video Downloader – Fast, Clean & Powerful
+#🎵 Music/Video Downloader – Fast, Clean & Powerful
 A modern, user-friendly Windows app for downloading audio and video from YouTube, Instagram, and more — built for speed, simplicity, and bulk efficiency.
-
+---
 🎧 Grab songs, 📹 save videos, 📥 download entire playlists — all in just a few clicks.
 
 ⚡ Key Features
@@ -46,7 +46,6 @@ Paste one or more video/audio URLs into the input box (one per line)
 
 Choose Audio (MP3) or Video (Best Quality)
 
-(Optional) Set a proxy or change your download folder
 
 Hit Download and track progress in the built-in log panel
 
