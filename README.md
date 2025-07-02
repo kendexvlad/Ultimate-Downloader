@@ -6,6 +6,7 @@ A modern, user-friendly Windows app for downloading audio and video from YouTube
 # ⚡ Key Features
 🔗 Multi-URL Batch Download
 Paste multiple links (one per line) to queue and download everything at once — no limits.
+🔗 Social media - no watermark best quality download.
 
 # 📽️ Best Quality Audio & Video
 Downloads the highest available video resolution
