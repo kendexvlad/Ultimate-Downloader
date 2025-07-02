@@ -1,32 +1,56 @@
-# Ultimate-Downloader
+🎵 Music/Video Downloader
+A modern, fast, and user-friendly downloader for Windows — built for downloading music and videos from YouTube, Instagram, and more.
 
-Its a modern, user-friendly Windows application for downloading audio and video from YouTube, YouTube Music, and many other popular platforms (Instagram, Facebook, Twitter, TikTok, SoundCloud, Vimeo, Dailymotion, Bilibili, Twitch, and more without watermark)
+📥 Save your favorite videos, extract high-quality MP3s, or download full playlists — all with a clean interface and powerful features.
 
-Features
-Download individual videos, music tracks, or entire playlists
-Supports audio (mp3) and video (mp4) downloads in best available quality
-Batch download with up to 20 concurrent downloads
-Proxy support for geo-blocked or restricted content
-Modern, minimalistic Material Design interface
-Remembers your preferred download folder
-Error handling and status for each file in the queue
+🚀 Features
+🔗 Multi-URL Batch Download
+Paste one or more links (one per line) to queue and download multiple files at once.
 
-Supported Platforms
-YouTube & YouTube Music
-Instagram
-Facebook
-Twitter (X)
-TikTok
-SoundCloud
-Vimeo
-Dailymotion
-Bilibili
-Twitch
-And more 
+📽️ High-Quality Video & Audio
+Downloads videos in the best available resolution
 
-Requirements
-Windows 10/11
-No installation required—just run the single .exe file
+Extracts audio directly in clean MP3 format
 
-Disclaimer
-This is an unofficial application. Use responsibly and respect the terms of service of each platform.
+🌀 Unique File Names
+Each downloaded file is saved with a random 4-character name to avoid overwriting and ensure uniqueness.
+
+📊 Real-Time Progress Display
+See live download percentages for each file in the status log.
+
+📁 Download Path Shown
+The full path to each saved file is displayed after download for easy access.
+
+📌 Persistent Download Folder
+Your selected folder is remembered across sessions — no need to set it every time.
+
+🌐 Proxy Support
+Use a proxy (with optional authentication) for downloads — useful in restricted networks.
+
+🧩 Playlist Support
+Paste a playlist link and the app will automatically expand and queue all items.
+
+❌ Smart Error Handling
+Invalid or unsupported URLs are detected and logged
+
+Download errors are clearly shown in the log
+
+🌓 Clean & Resizable Interface
+Modern, dark-themed UI with resizable input areas and clear status messages.
+
+🖱️ Drag-and-Drop Support (Optional)
+If enabled, drag video or audio URLs into the app window to instantly queue them.
+
+🛠️ How to Use
+Paste one or more URLs into the input field (one per line)
+
+Select Audio (MP3) or Video (Best Quality)
+
+(Optional) Set a proxy or choose a custom download folder
+
+Click Download — watch progress and access paths in the log panel
+
+📌 Requirements
+🪟 Windows 10/11 (x64)
+
+⚙️ .NET 8.0 Runtime (if using the lightweight build)
